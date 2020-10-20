@@ -6,6 +6,7 @@
 tmp_*
 *test*
 dev_*
+*Catalog*
 
 # Folders
 /dev_*/
