@@ -7,6 +7,7 @@ tmp_*
 *test*
 dev_*
 *Catalog*
+*.log
 
 # Folders
 /dev_*/
